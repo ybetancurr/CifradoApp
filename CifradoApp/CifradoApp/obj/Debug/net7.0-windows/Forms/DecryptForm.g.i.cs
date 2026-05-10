@@ -100,7 +100,7 @@ namespace CifradoApp.Forms {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/CifradoApp;component/forms/decryptform.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/CifradoApp;V1.0.0.0;component/forms/decryptform.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Forms\DecryptForm.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
